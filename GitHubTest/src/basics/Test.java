@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("Hellooo......Bro Its GITHub");
 		//Eclipse GIT Test
 		int a=20;
+		System.out.println(a);
 	}
 
 }
