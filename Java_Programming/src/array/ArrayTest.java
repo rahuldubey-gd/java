@@ -12,7 +12,7 @@ public class ArrayTest {
 		int ar1[] = new int[b];
 		int c;
 		//int ar2[] = new int[c];
-		// hello
+		// hello....
 		System.out.println(ar.length+"     "+ar1.length);
 	}
 
