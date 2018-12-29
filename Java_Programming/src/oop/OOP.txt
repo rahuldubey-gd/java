@@ -1,1 +1,19 @@
-Object Oriented PRogramming
+1. Abstraction
+2. Data Hiding
+3. Encapsulation
+4. Tightly Encapsulated class.
+5. Method Signature
+6. Overloading
+7. Overriding
+8. IS-A-Relationship
+9. HAS-A-Relationship
+10.Aggrgation
+11.Composition
+12.Cohesion
+13.Coupling
+14. this
+15. super
+16. Instance control flow
+17. static Control flow
+18. Abstract class.
+19. Interface.
