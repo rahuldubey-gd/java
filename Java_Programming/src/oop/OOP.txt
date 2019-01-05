@@ -7,13 +7,14 @@
 7. Overriding
 8. IS-A-Relationship
 9. HAS-A-Relationship
-10.Aggrgation
+10.Aggregation
 11.Composition
 12.Cohesion
 13.Coupling
-14. this
-15. super
-16. Instance control flow
-17. static Control flow
-18. Abstract class.
-19. Interface.
+14.Constructor
+15. this
+16. super
+17. Instance control flow
+18. static Control flow
+19. Abstract class.
+20. Interface.
