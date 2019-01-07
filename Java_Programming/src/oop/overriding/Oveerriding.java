@@ -26,6 +26,7 @@ public class Oveerriding {
 
 	public static void main(String[] args) {
 
+		/*
 		A a = new A();
 		
 		a.name;
@@ -51,7 +52,7 @@ public class Oveerriding {
 		a.add();
 		a.sum();
 		a.div(); // Child Class Div will be called
-		
+		*/
 	}
 
 }
