@@ -1,0 +1,38 @@
+Set:
+
+
+HashSet
+
+1. Data Structure : Hashtable + RB-Tree.
+2. Insertion order is not preserved.
+3. Elements are sorted.
+4. Duplicates are not allowed.
+5. Null Insertion is allowed only once. 
+
+
+LinkedHashSet
+
+1. Data Structure : Linkedlist + Hashtable + RB-Tree.
+2. Insertion order is preserved.
+3. Elements are unsorted.
+4. Duplicates are not allowed.
+5. Null Insertion is allowed only once. 
+
+
+
+
+SortedSet(Interface)
+
+
+Navigable(Interface)
+
+
+TreeSet
+
+
+1. Data Structure : RB-Tree.
+2. Insertion order is not preserved.
+3. Elements are sorted.
+4. Duplicates are not allowed.
+5. Null Insertion is not allowed. 
+
