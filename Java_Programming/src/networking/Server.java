@@ -9,7 +9,7 @@ class Server
 public static void main(String args[])throws Exception
 {
 	//Creating Server
-	
+	//
 	ServerSocket ss = new ServerSocket(9999);
 	
 	System.out.println("Server Started....");
