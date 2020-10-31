@@ -11,9 +11,11 @@ public class ArrayTest {
 		int ar[] = new int[at.a];
 		int ar1[] = new int[b];
 		int c;
+		
 		//int ar2[] = new int[c];
 		// hello......
 		System.out.println(ar.length+"     "+ar1.length);
+		
 	}
 
 }
